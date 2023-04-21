@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+If the implementation is easy to explain, it may be a good idea.
+
+🔭 I’m currently working on helping small-scale production companies with data collection and analysis.
+
 <!--
 **Danieret/Danieret** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
